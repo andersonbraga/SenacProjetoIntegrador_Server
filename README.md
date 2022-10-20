@@ -18,7 +18,7 @@ Sistemas vai ser usado para estoque de uma loja de peça eletrica para caminhõe
 °ASP.NET Core Blazor
 °Dapper
 - ASP.NET 6.0
-- ASP.NET Core Blazor
+- ASP.NET Core Blazor Server
 -Dapper
 
 #Está em desevolvimento, apresenta erros
